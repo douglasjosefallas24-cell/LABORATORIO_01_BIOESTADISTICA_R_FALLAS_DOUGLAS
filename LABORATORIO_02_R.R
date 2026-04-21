@@ -1,7 +1,7 @@
 #========================================================
-# Laboratorio 01
+# Laboratorio 02
 # Douglas Fallas Mora
-# version 1 3/12/2026
+# version 1 20/04/2026
 #========================================================
 
 #Cargar paquetes ----
@@ -378,5 +378,6 @@ cuadro_largo <- tibble(
 
 cuadro_largo
 
+""
 
 # FIN
